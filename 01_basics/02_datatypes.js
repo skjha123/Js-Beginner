@@ -8,5 +8,7 @@
  console.log(typeof "abdul");
  console.log(typeof null);
  console.log(typeof undefined);
+ console.log("trying to comit");
+ 
  
  
